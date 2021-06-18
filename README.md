@@ -1,1 +1,1 @@
-# Mini_Registration_Desktop_App
+# Mini_Registration_Desktop_App (PYTHON)
